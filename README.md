@@ -220,4 +220,5 @@ def get_trades(limit: int = 5, offset: int = 0):
     return result
  ```
 
+To paginate, URL : `http://localhost:8000/paginate/`
  
